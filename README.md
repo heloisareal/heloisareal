@@ -33,7 +33,9 @@
 
 - 📖 Estudo e faço estágio na FIAP.
   
-- 💻 Estou no primeiro semestre no curso de Engenharia de Software.
+- 💻 Estou no segundo semestre no curso de Engenharia de Software.
 
 - 🌎 Possuo nível avançado em inglês e retirei o certificado de Cambridge em 2022.
+
+- Esse é o meu perfil oficial mais atualizado!
 </p>
