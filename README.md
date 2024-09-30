@@ -3,8 +3,8 @@
 
 <!-- Stats -->
 <div align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=heloisareal&show_icons=true&count_private=true&title_color=E6AEB7&icon_color=758EAC&text_color=ffffff&bg_color=070504" alt="Heloísa Real' github stats" />
-  <img width="438px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloisareal&layout=compact&langs_count=7&title_color=E6AEB7&text_color=ffffff&bg_color=070504" alt="Heloísa Real' most used languages"/>
+  <img width="45%" height="190em" src="https://github-readme-stats.vercel.app/api?username=heloisareal&show_icons=true&count_private=true&title_color=E6AEB7&icon_color=758EAC&text_color=ffffff&bg_color=070504" alt="Heloísa Real' github stats" />
+  <img width="34%" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloisareal&layout=compact&langs_count=7&title_color=E6AEB7&text_color=ffffff&bg_color=070504" alt="Heloísa Real' most used languages"/>
 </div>
 
 ###
@@ -33,9 +33,7 @@
 
 - 📖 Estudo e faço estágio na FIAP.
   
-- 💻 Estou no segundo semestre no curso de Engenharia de Software.
+- 💻 Estou no primeiro semestre no curso de Engenharia de Software.
 
 - 🌎 Possuo nível avançado em inglês e retirei o certificado de Cambridge em 2022.
-
-- Esse é o meu perfil oficial mais atualizado!
 </p>
