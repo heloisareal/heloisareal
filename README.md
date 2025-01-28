@@ -1,5 +1,5 @@
 <!-- Start -->
-<h1 align="center"> 👋🏻 Oi, eu sou a Heloísa Real! <h1>
+<h1 align="center"> 👋🏻 Oii, eu sou a Heloísa Real! <h1>
 
 <!-- Stats -->
 <div align="center">
@@ -31,9 +31,9 @@
   
 - 🗓️ Tenho 18 anos.
 
-- 📖 Estudo e faço estágio na FIAP.
+- 📖 Estou no 3º semestre do bacharelado de Engenharia de Software.
   
-- 💻 Estou no primeiro semestre no curso de Engenharia de Software.
+- 💻 Estou fazendo estágio na Infinera Telecom, no setor de desenvolvimento e engenharia.
 
-- 🌎 Possuo nível avançado em inglês e retirei o certificado de Cambridge em 2022.
+- 🌎 Possuo nível avançado em inglês e retirei o certificado de Cambridge, Linguaskill.
 </p>
