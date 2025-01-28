@@ -31,7 +31,7 @@
   
 - 🗓️ Tenho 18 anos.
 
-- 📖 Estou no 3º semestre do bacharelado de Engenharia de Software.
+- 📖 Estou no 3º semestre do curso de Engenharia de Software na FIAP.
   
 - 💻 Estou fazendo estágio na Infinera Telecom, no setor de desenvolvimento e engenharia.
 
