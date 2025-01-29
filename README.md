@@ -3,8 +3,8 @@
 
 <!-- Stats -->
 <div align="center">
-  <img width="45%" height="190em" src="https://github-readme-stats.vercel.app/api?username=heloisareal&show_icons=true&count_private=true&title_color=E6AEB7&icon_color=758EAC&text_color=ffffff&bg_color=070504" alt="Heloísa Real' github stats" />
-  <img width="34%" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloisareal&layout=compact&langs_count=7&title_color=E6AEB7&text_color=ffffff&bg_color=070504" alt="Heloísa Real' most used languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=heloisareal&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heloisareal&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
