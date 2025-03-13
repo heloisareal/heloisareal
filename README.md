@@ -3,9 +3,8 @@
 
 <!-- Stats -->
 <div align="center">
-  <a href="https://github.com/triz14">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heloisareal&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloisareal&layout=compact&langs_count=16&theme=radical"/>
+  <img width="45%" height="190em" src="https://github-readme-stats.vercel.app/api?username=heloisareal&show_icons=true&count_private=true&title_color=B03466&icon_color=B03466&text_color=ffffff&bg_color=070504" alt="Heloísa Real' github stats" />
+  <img width="34%" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloisareal&layout=compact&langs_count=7&title_color=B03466&text_color=ffffff&bg_color=070504" alt="Heloísa Real' most used languages"/>
 </div>
 
 ###
